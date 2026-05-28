@@ -30,3 +30,6 @@ The goal was to answer 8 business questions related to revenue, customers, and s
 - UNION across multiple tables
 - COUNT DISTINCT
 - Views
+
+## Dashboard
+- Tableau Dashboard: https://public.tableau.com/views/RetailSalesAnalysis_17800013891640/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
